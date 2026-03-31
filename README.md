@@ -29,7 +29,7 @@ smart-messaging-assistant/
 1. Install Python
 2. Clone the repository:
 
-git clone <your-repo-link>
+git clone (https://github.com/tokyoto6737/smart-messaging-assistant)
 
 3. Navigate to folder:
 
