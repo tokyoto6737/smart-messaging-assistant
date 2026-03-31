@@ -1,49 +1,72 @@
 # 🤖 AI Smart Messaging Assistant
 
 ## 📌 Overview
-This project is a Python-based smart messaging assistant that enhances communication by analyzing messages, detecting sentiment, filtering spam, and suggesting intelligent replies.
+The AI Smart Messaging Assistant is a desktop-based application designed to improve communication efficiency by analyzing messages, detecting sentiment, filtering spam, and suggesting intelligent replies in real time.
+
+---
 
 ## 🚀 Features
-- 💬 Chat interface (GUI using Tkinter)
-- 🧠 Sentiment detection (Positive, Negative, Urgent, Neutral)
-- 🤖 Auto-reply system
-- 🚫 Spam message detection
-- 💡 Smart reply suggestions
+
+- 💬 Interactive Chat Interface (Tkinter GUI)
+- 🧠 Sentiment Detection (Positive, Negative, Urgent, Neutral)
+- 🤖 Automated Smart Replies
+- 🚫 Spam Detection System
+- 💡 Smart Reply Suggestions (Clickable Buttons)
+
+---
 
 ## 🛠️ Tech Stack
+
 - Python
 - Tkinter (GUI)
-- Rule-based NLP logic
+- Rule-Based Natural Language Processing
+
+---
 
 ## 📂 Project Structure
+
 
 smart-messaging-assistant/
 │── main.py
 │── ui.py
 │── ai_module.py
 │── spam_filter.py
+│── requirements.txt
 │── README.md
+│── /screenshots
 
+
+---
 
 ## ▶️ How to Run
-1. Install Python
-2. Clone the repository:
 
-git clone (https://github.com/tokyoto6737/smart-messaging-assistant)
+1. Clone the repository:
 
-3. Navigate to folder:
+git clone https://github.com/tokyoto6737/smart-messaging-assistant.git
+
+
+2. Navigate to project folder:
 
 cd smart-messaging-assistant
 
-4. Run:
+
+3. Run the application:
 
 python main.py
 
 
+---
+
+
 ## 💡 Future Scope
+
 - Integration with real messaging platforms
-- Advanced AI using machine learning
-- Voice-based messaging
+- Machine learning-based sentiment analysis
+- Voice-based interaction
+- Mobile application version
+
+---
 
 ## 👨‍💻 Author
+
 Raj Dixit
